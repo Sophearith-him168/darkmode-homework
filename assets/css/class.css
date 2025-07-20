@@ -46,16 +46,16 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 40px;
+  padding: 20px 30px;
   background-color: var(--header-bg);
 }
 
-.profile-info {
+.profile-header .profile-info {
   display: flex;
   align-items: center;
 }
 
-.profile-img {
+.profile-header .profile-info .profile-img {
   width: 80px;
   height: 80px;
   border-radius: 50%;
